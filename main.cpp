@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cstdio>
-
+///prueba
 using namespace std;
 
 typedef struct
